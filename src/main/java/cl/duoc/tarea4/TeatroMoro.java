@@ -126,6 +126,7 @@ public class TeatroMoro {
         System.out.println("Descuento Aplicado 10% por Estudiante");
      }     
      System.out.println("Total a Pagar $" + tarifaACobrar);
+     System.out.println("Si desea realizar otra compra vuelva a seleccionar opcion 1 desde el menu");
     }
     
     
